@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
  
 
-💻 **Software Engineer **  
+### 💻 Software Engineer 
 I enjoy building robust software solutions, exploring new tech, and making complex systems work seamlessly.  
 
 ---
