@@ -39,7 +39,7 @@ I enjoy building robust software solutions, exploring new tech, and making compl
 ---
 
 ### 🛠 Skills & Technologies
-- **Languages:** Java, Python, Go  
+- **Languages:** Java, Go, Python  
 
 
 ---
